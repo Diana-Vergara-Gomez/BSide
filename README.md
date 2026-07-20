@@ -8,9 +8,9 @@ BSide es un blog dedicado a mantener a los lectores al día con lo último en m�
 
 ## Equipo
 
-- **Scrum Master:** _[José Limón]_
-- **Product Owner:** _[Miguel Sanchez]_
-- **Miembros del equipo:** _[Salvador Perez, Jessica Resendiz , Diana Vergara, Evelyn Canseco ]_
+- **Scrum Master:** José Limón
+- **Product Owner:** Miguel Sanchez
+- **Miembros del equipo:** Salvador Perez, Jessica Resendiz , Diana Vergara, Evelyn Canseco
 
 ## Estado del Sprint
 
