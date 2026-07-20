@@ -24,11 +24,10 @@ BSide es un blog dedicado a mantener a los lectores al día con lo último en m�
 | | | Definir identidad visual (colores, tipografía) |
 | | | Implementar sección de suscripción/newsletter |
 
-> Actualiza esta tabla a medida que avance el Sprint, moviendo las tareas entre columnas según su estado.
 
 ## Tecnologías
 
-- _[Por definir: plataforma de hosting, framework, etc.]_
+- WordPress
 
 ## Cómo contribuir
 
